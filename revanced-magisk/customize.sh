@@ -181,5 +181,6 @@ if [ "$KSU" ] && [ -d "/data/adb/modules/zygisk-assistant" ]; then
 fi
 
 ui_print "* Done"
-ui_print "  by j-hc (github.com/j-hc)"
+ui_print "  by M1chi (github.com/m1chi-0)"
+ui-print "  repositories from j-hc (github.com/j-hc) were used"
 ui_print " "
